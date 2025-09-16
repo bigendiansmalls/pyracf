@@ -2,3 +2,4 @@ irrdbu00
 *.pickle
 __pycache__
 venv/*
+build
