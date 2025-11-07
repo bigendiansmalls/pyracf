@@ -1,6 +1,6 @@
-Metadata-Version: 2.1
+Metadata-Version: 2.4
 Name: pyracf
-Version: 0.8.9
+Version: 0.9.0
 Summary: Parsing IRRDBU00 unloads in panda dataframes.
 Home-page: https://github.com/wizardofzos/pyracf
 Author: Wizard of z/OS
@@ -15,8 +15,28 @@ License-File: LICENSE
 Requires-Dist: wheel
 Requires-Dist: pandas>=1.5.2
 Requires-Dist: xlsxwriter>=3.1.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: project-url
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
 
 # pyracf
+
+# IMPORTANT UPDATE:
+
+PyRACF will be moving to a new home "soon". I want to be have more Mainframe Pandas Parsing Capabilities in a single framework, so I've started
+to work on mfpandas. You can already take a sneak-peak via ... or ...
+
+As a extra benefit, Leonard (comme-suis) can use this space for "the other pyracf" located at https://github.com/ambitus/pyracf. 
+
+Don't worry, all pyracf versions fro this package will still be available at the (soon to be stale) https://github.com/wizardofzos/pyracf.
 
 ## PyRACF: A Python module for analyzing RACF security
 
